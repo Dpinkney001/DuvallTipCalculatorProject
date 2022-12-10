@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Duvall Tip Calculator Project</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="textView_billAmountHint">TextViewButtonHint</string>
+    <string name="textViewPercent">TextViewPercent</string>
+    <string name="todo">TODO</string>
+</resources>
